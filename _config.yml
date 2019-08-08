@@ -1,9 +1,9 @@
 title: "Bestiary"
-author: "chisaipete"
+author: ""
 description: "A searchable D&D 5e creature list."
-url: "https://sgtbackpack.github.io/dnd_5e_monster_list/"
-source-url: "https://sgtbackpack.github.io/dnd_5e_monster_list/"
-baseurl: "/bestiary"
+url: "https://sgtbackpack.github.io/dnd_5e_monster_list"
+source-url: "https://sgtbackpack.github.io/dnd_5e_monster_list"
+baseurl: "/dnd_5e_monster_list"
 exclude: ['Rakefile', 'README.md']
 collections:
   creatures:
