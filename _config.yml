@@ -2,7 +2,7 @@ title: "Bestiary"
 author: ""
 description: "A searchable D&D 5e creature list."
 url: "https://sgtbackpack.github.io/bestiary"
-source-url: "https://sgtbackpack.github.io/"
+source-url: "https://sgtbackpack.github.io/bestiary"
 baseurl: "/bestiary"
 exclude: ['Rakefile', 'README.md']
 collections:
