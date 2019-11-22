@@ -2,7 +2,7 @@
 
 Bestiary is a mobile-friendly 5e compendium of creatures that organizes them in various classifications and strengths.
 
-See the latest compiled build here: [https://sgtbackpack.github.io/bestiary/](https://sgtbackpack.github.io/bestiary/)
+See the latest compiled build here: [https://cptbackpack.github.io/bestiary/](https://cptbackpack.github.io/bestiary/)
 
 
 ## Structure
