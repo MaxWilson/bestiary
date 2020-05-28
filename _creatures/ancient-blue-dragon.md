@@ -21,6 +21,8 @@ hit_points: "481 (26d20+208)"
 armor_class: "22 (natural armor)"
 ---
 
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
 ### Actions
 
 ***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
