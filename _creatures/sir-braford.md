@@ -12,7 +12,7 @@ size: Medium humanoid (human)
 alignment: neutral evil
 challenge: "1/2 (100 XP)"
 languages: "Common"
-skills: "Athletics +S, Perception +3"
+skills: "Athletics +5, Perception +3"
 speed: "30 ft."
 hit_points: "19 (3d8+6)"
 armor_class: "18 (chain mail, shield)"
