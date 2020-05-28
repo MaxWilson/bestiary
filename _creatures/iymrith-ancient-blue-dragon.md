@@ -21,6 +21,8 @@ hit_points: "481 (26d20+208)"
 armor_class: "22 (natural armor)"
 ---
 
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
 ***Innate Spellcasting.*** Iymrith's innate spellcasting ability is Charisma (spell save DC 20).  Iymrith's stone shape can create a living gargoyle instead of altering the stone as described in the spell description. She can innately cast the following spells, requiring no material components:
 
 1/day: counterspell, detect magic, ice storm, stone shape, teleport
